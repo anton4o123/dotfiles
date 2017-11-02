@@ -12,5 +12,9 @@ set fo-=ro fo+=cql
 syntax on
 set background=dark
 
+"Here some interesting 'invisible' characters are made 'visible'
 set listchars=eol:!,tab:>-,trail:.
 set list
+
+"Showing line numbers
+set number
